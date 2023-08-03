@@ -16,6 +16,7 @@
 - [devsaga22](https://github.com/devsaga22)
 - [Dewald](https://github.com/HaloBoss777)
 - [guillemboada](https://github.com/guillemboada)
+- [Gaurav Kumar](https://github.com/kumar1102)
 - [Albin N J](https://github.com/AlbinN-J)
 - [Ayoubrabiya](https://github.com/Ayoubrabiae)
 - [Kgotso Makhalimele](https://github.com/kgotsosm)
